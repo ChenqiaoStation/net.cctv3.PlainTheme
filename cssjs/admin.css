@@ -1,0 +1,67 @@
+.col-tb-offset-2 {
+  margin-left: 0;
+}
+.col-tb-8 {
+  width: 100%;
+  margin-top: 8px;
+}
+form.protected.setc {
+  background: white;
+  margin: 0 10px 10px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+}
+form.protected.setc .btn {
+  background-color: #3f51b5;
+  color: white;
+}
+.tongzhi {
+  margin-bottom: 10px;
+  font-size: 16px;
+  text-align: center;
+  color: red;
+}
+.typecho-option-submit {
+  display: none;
+}
+.tab {
+  text-align: center;
+  background: white;
+  padding: 10px;
+  border-radius: 8px;
+  line-height: 2.5em;
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+}
+.card {
+  background: white;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+}
+.tabLinks {
+  cursor: pointer;
+  display: block;
+}
+.tabLinks.active {
+  background: #00bcd4;
+  color: white;
+  border-radius: 8px;
+}
+.hiddenx {
+  display: none;
+}
+button.btn.primary {
+  width: 100%;
+  border-radius: 8px;
+  background-color: #3f51b5;
+}
+.shouquan {
+  text-align: center;
+}
+
+.shouquan a {
+  font-size: 24px;
+  color: red;
+}

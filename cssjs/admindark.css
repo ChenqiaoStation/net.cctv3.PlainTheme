@@ -1,0 +1,14 @@
+.tab,
+.card,
+form.protected.setc {
+  background: #2d2929;
+  color: #ffffff;
+}
+input[type="text"],
+input[type="password"],
+input[type="email"],
+textarea {
+  background: #6b6b6b;
+  border: 1px solid #6b6b6b;
+  color: #fff;
+}
